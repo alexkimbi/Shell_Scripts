@@ -6,7 +6,8 @@ then
 	echo " Your entered the wrong First name"
 else 
 	echo " You seems to be the same $Fname that i know"
-fi
-	echo "Thanks and bye"
+        echo "Thanks and bye"
+	fi
+
 
 
